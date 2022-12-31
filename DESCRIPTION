@@ -1,0 +1,15 @@
+Package: rMAD
+Title: Evaluation of the tumor heterogeneity level
+Version: 0.0.0.9000
+Author: Rongzhuo Long, Hongjing Ai, Xiaosheng Wang
+Maintainer: The package maintainer <rongzhuolong@stu.cpu.edu.cn> <hongjingai@stu.cpu.edu.cn> <xiaosheng.wang@cpu.edu.cn>
+Description: This package shows a rMAD algorithm to calculate tumor heterogeneity level in R.
+License: GPL-3
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Imports: 
+    stats
+Depends: 
+    R (>= 2.10)
